@@ -39,6 +39,4 @@
         android:text="INGRESAR"
         android:id="@+id/B_Login"
         android:layout_gravity="center_horizontal" />
-
-
 </LinearLayout>
